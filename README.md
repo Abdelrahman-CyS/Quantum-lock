@@ -62,3 +62,10 @@ Quantum Lock is a secure and efficient password manager built using Python and T
 - **Encryption**: This application uses strong encryption standards to protect sensitive information. Ensure your encryption keys (`keys.key` and `secret.key`) are stored securely and not shared.
 - **Password Strength**: Utilize the built-in password strength evaluation to ensure your passwords meet the security requirements.
 - **Database Security**: The database is stored locally and should be protected with system-level security measures.
+
+4. **Screenshot**:
+
+![image](https://github.com/user-attachments/assets/27ccd6eb-354c-407a-a258-f78624f78021)
+
+![image](https://github.com/user-attachments/assets/76ce0c57-9b41-40b1-bbe8-96809b514b46)
+
